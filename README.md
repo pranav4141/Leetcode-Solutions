@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/pranav4141/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
