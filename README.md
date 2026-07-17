@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranav4141/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
