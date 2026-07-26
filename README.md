@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranav4141/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranav4141/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
