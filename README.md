@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranav4141/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranav4141/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pranav4141/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
